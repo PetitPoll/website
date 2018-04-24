@@ -1,6 +1,6 @@
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-baseurl                 = "“https://petitpoll.netlify.com/"   # Your domain name. Must end with "/"
+baseurl                 = "https://petitpoll.netlify.com/"   # Your domain name. Must end with "/"
 languageCode            = "en-us"
 title                   = "Introduction"
 theme                   = "hugo-theme-introduction"
